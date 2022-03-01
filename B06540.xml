@@ -1,0 +1,451 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An advantageous method of extricating the nation out of its difficulties. Humbly proposed by Thomas Whately.</title>
+            <author>Whately, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06540</idno>
+            <idno type="STC">Wing W1583A</idno>
+            <idno type="STC">ESTC R233239</idno>
+            <idno type="EEBO-CITATION">52529091</idno>
+            <idno type="OCLC">ocm 52529091</idno>
+            <idno type="VID">179238</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06540)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179238)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2781:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An advantageous method of extricating the nation out of its difficulties. Humbly proposed by Thomas Whately.</title>
+                  <author>Whately, Thomas.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Milbourn, for the author, and are to be had at Mr. Carter's in Old Palace-yard near the Parliament-house; and at the Plow on the Royal Exchange, up Stairs on the north side,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>169⁵/₆.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Proposing establishment of market-banks throughout the country for financing the current war.</note>
+                  <note>Manuscript note on outer margin of p. 8: For market-bank 1695.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finance, Public --  Great Britain --  History --  1688-1815 --  Early works to 1800.</term>
+               <term>Banks and banking --  Great Britain --  Early works to 1800.</term>
+               <term>Grand Alliance, War of the, 1689-1697 --  Economic aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb n="1" facs="tcp:179238:1"/>
+            <head>An Advantageous METHOD of Extricating the Nation out of its Preſent Difficulties.<note place="margin">☞ <hi>See</hi> Ad<g ref="char:EOLhyphen"/>vertiſement at the End, and read it Firſt.</note>
+            </head>
+            <byline>Humbly Propoſed by <hi>THOMAS WHATELY.</hi>
+            </byline>
+            <div type="proposals">
+               <head>
+                  <hi>I.</hi> The PROPOSALS.</head>
+               <p>
+                  <q rend="margQuotes">'THAT in every Corporation and Market-Town (to be named) be erected an Office under the Government and Direction of the Mayor and Al<g ref="char:EOLhyphen"/>dermen, or Chief Officers of the Place, or Perſons of Reputation (to be named) to be Receivers and Truſtees for ſuch Money, as, being appointed to be changed, ſhall be offered to them, and to enter the name of the Owner, and Sum, into a Book procured for that purpoſe, numbred accor<g ref="char:EOLhyphen"/>ding to the Order of the Entry; and delivering a Ticket of the Name of the Owner, the Sum, and the Number of the Entry.</q>
+               </p>
+               <p>This Office may be call'd the Town-Bank or Market-Bank of that place.</p>
+               <p>
+                  <label>Object.</label> Many Market-Towns will not afford Men qualify'd for ſuch a Truſt.</p>
+               <p n="1">
+                  <label>
+                     <hi>Anſ.</hi> 1.</label> For the preſent Exigency, Juſtices of the Peace, or other Commiſſioners may be appointed to preſede, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2. Every Perſon may be left at liberty to chooſe into what Market-Bank he will enter his Money, which both leſſens the Objection, and very much promotes the following Deſign.</p>
+               <p n="3">3. For the future, the Intereſt of the Town, as we ſhall ſhew by and by, will en<g ref="char:EOLhyphen"/>gage their Care their proper buſineſs will be to choſe Officers to meet once a Quarter, to ſee Accounts ſtated, and Officers payd out of the Fees (to be named) and to take care of their Poors Stock, if ſuch a Stock ſhould by de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rees ariſe out of the ſurpluſage of the Fees, after the Officers are payd; or from any other means that may hereafter be propoſed. This is all the Con<g ref="char:EOLhyphen"/>cern they will have with Money.</p>
+               <p n="4">4. The great Truſt will remain where it is now in the King's Receiver, who will have the Money. And therefore let my Second Propoſition be,</p>
+               <p n="2">II. <q rend="margQuotes">'THAT there be fixed in every Bank-Town a King's Receiver, to whom the Collectors of the adjacent Pariſhes ſhall return their Collections.</q>
+               </p>
+               <p n="3">III. <q rend="margQuotes">'THAT the Market-Bank appoint a place to receive full Pounds, and be al<g ref="char:EOLhyphen"/>lowed for Charges by the Owner 1 <hi>s.</hi> in the Pound for all defective Money: But that the Bank abate the 1 <hi>s.</hi> in the Pound to every Perſon that ſhall bring 5 <hi>s.</hi> in the Pound of Current (Unclip'd or Mill'd) Money, that is with 15 <hi>s.</hi> of defective Mo<g ref="char:EOLhyphen"/>ney, 5 <hi>s.</hi> of Current Money.</q>
+               </p>
+               <p>This will be ſufficient Motive to bring forth the Current Money for preſent Uſe, when every 5 <hi>s.</hi> will ſave the Owner 1 <hi>s.</hi> every 20 <hi>l.</hi> will ſave 5 <hi>l.</hi>
+               </p>
+               <p n="4">IV. <q rend="margQuotes">'THAT the Market-Bank appoint another diſtinct place to exchange any de<g ref="char:EOLhyphen"/>ſective Money under 20 <hi>s.</hi> for the Current Money, the bearer of the Money allowing to the Bank for Charges 1 <hi>d.</hi> in the Shilling.</q>
+               </p>
+               <p>The Poor who cannot be without the uſe of their Money will have little Reaſon to repine at loſing 1 <hi>d.</hi> in the Shilling for ready Money.</p>
+               <p n="5">V. <q rend="margQuotes">'THAT, if there remain a ſurpluſage of Current Money (procured by the for<g ref="char:EOLhyphen"/>mer Means (Prop. III.) or any other expedient) the ſame be layd out in paying of 1 <hi>l.</hi> of the Sum total of every particular Perſon on the Regiſter, according to the Or<g ref="char:EOLhyphen"/>der of their Entry; and ſo round again till the Current Money be all diſpoſed of. And that every Perſon when he enters his Money, declare whether he claims a ſhare in this Dividend, or chooſe rather to let his Sum remain entire; which the Regiſter muſt note.</q>
+               </p>
+               <pb n="2" facs="tcp:179238:2" rendition="simple:additions"/>
+               <p>By this means the Regiſter will be able to give exact notice to what Number this Dividend will reach; and the Current Money will be diſtributed into their Hands that have moſt need of it. Thus,
+<table>
+                     <row>
+                        <cell>N<hi rend="sup">o</hi> 1.</cell>
+                        <cell>
+                           <hi>A</hi> hath paid into the Market-Bank</cell>
+                        <cell>1000 <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>N<hi rend="sup">o</hi> 2</cell>
+                        <cell>
+                           <hi>B</hi> hath paid into the Market-Bank</cell>
+                        <cell>100 <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>N<hi rend="sup">o</hi> 3</cell>
+                        <cell>
+                           <hi>C</hi> hath paid into the Market-Bank</cell>
+                        <cell>55 <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>N<hi rend="sup">o</hi> 4</cell>
+                        <cell>
+                           <hi>D</hi> hath paid into the Market-Bank</cell>
+                        <cell>40 <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>N<hi rend="sup">o</hi> 5</cell>
+                        <cell>
+                           <hi>E</hi> hath paid into the Market-Bank</cell>
+                        <cell>25 <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>N<hi rend="sup">o</hi> 6</cell>
+                        <cell>
+                           <hi>F</hi> hath paid into the Market-Bank</cell>
+                        <cell>20 <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>N<hi rend="sup">o</hi> 7</cell>
+                        <cell>
+                           <hi>G</hi> hath paid into the Market-Bank</cell>
+                        <cell>11 <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>N<hi rend="sup">o</hi> 8</cell>
+                        <cell>
+                           <hi>H</hi> hath paid into the Market-Bank</cell>
+                        <cell>3 <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>N<hi rend="sup">o</hi> 9</cell>
+                        <cell>
+                           <hi>I</hi> hath paid into the Market-Bank</cell>
+                        <cell>2 <hi>l.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>N<hi rend="sup">o</hi> 10</cell>
+                        <cell>
+                           <hi>K</hi> hath paid into the Market-Bank</cell>
+                        <cell>1 <hi>l.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>A B D F,</hi> by the Mark at the end of their Sum, are known to decline this Dividend, and keep their Sums entire, when all the reſt have received 1 <hi>l.</hi> a piece, <hi>K</hi> will be wholly diſcharged, <hi>I</hi> will have received half his Mony, <hi>H</hi> one part of three, <hi>C</hi> one part of it.</p>
+               <p>Whereas if this Dividend be made with an even proportion, according to the quantity of the Sum total of every perſon on the Regiſter, <hi>A</hi> will receive ſo much as will <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtrate the end of it, <hi>viz.</hi> the diſtribution of the Good Mony ſo equally into many Hands, for ordinary Commerce, that <hi>Bankers, &amp;c.</hi> may not eaſily Hoard it up again, and make it Scarce.</p>
+               <p n="6">VI. <q rend="margQuotes">'That immediately (after the expiration of the limited time) every <hi>Market-Bank,</hi> cauſe all their Defective Mony to be Sealed up in Bags, in the preſence of —, with a Label of the Name of the <hi>Market-Bank,</hi> the Sum, and the Weight; and to be convey'd ſo Sealed before the — day of — at the Charge of the County, to the King's <hi>Ex<g ref="char:EOLhyphen"/>chequer;</hi> and, that a <hi>Tally</hi> of the Sum total be delivered there for the uſe of every <hi>Market-Bank.</hi>
+                  </q>
+               </p>
+               <p n="7">
+                  <q rend="margQuotes">'VII. THAT the Market-Bank call in the number'd Tickets, and deliver to every Per<g ref="char:EOLhyphen"/>ſon concern'd a Bill, or Bills, of the Mony remaining due to him from that Bank; and that ſuch bills be a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>gnable by Indorſement or Transfer in the Market-Bank; and, that no Perſon of a Fixed Habitation within Ten Miles of the Bank, Sue any Perſon for <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Debt, not exceeding the Mony he hath there, if the Debtor offer to transfer to his Cre<g ref="char:EOLhyphen"/>ditor ſo much in that Bank as would pay his Debt, (except for Debts upon Bonds and Leaſes) till (a time to be named, within which time all the Mony may be ſuppoſed to be return'd in Current Coyn.)</q>
+               </p>
+               <p n="8">VIII. <q rend="margQuotes">'THAT the Mony be Return'd in Current Coyn at ſeveral Payments,—And be diſtributed by every Market-Bank, to the perſons concern'd (bringing their Bills) in as equal proportion, according to the Quantity of their Sums.</q> But,</p>
+               <p n="9">IX. <q rend="margQuotes">'THAT every Market-Bank, upon the Security of the <hi>Act</hi> for the Tax to man good our Coyn, and for Loans, <hi>&amp;c.</hi> may have Liberty to continue their Mony, or ſome part of it (ſaving every Man's Right) for the King's Intereſt, ſo long as the Parliament ſhall think expedient. And that the King's Receiver at every Market-Bank pay the Bank their Intereſt quarterly, and their Principal, as it becomes due. — And the the Acquittance of that Bank be paſſed in his Accounts.</q>
+               </p>
+               <p>This is the Bottom upon which the Advantages propoſed are founded; and this is no more than affording the Country the Privilege of the City, that is, to Lend to the King, for which this Method opens a ſafe and eaſie way, and equally for the Service of the King and People. The King delivers but one Tally to a Market-Bank, which will give but lit<g ref="char:EOLhyphen"/>tle trouble to his <hi>Exchequer,</hi> and be an Eaſe to the King's Receiver in every Bank-town, by Converting part of the Mony to be Returned to the Receiver-General into an Acquit<g ref="char:EOLhyphen"/>tance from the Market-Bank, which will paſs with the Mony through all the Offices, without diſturbing any Setled Method. Nor will it be leſs for the Encouragement of the People, to have their Intereſt paid where they pleaſe, and at the ſame time enjoy the Uſe of the Principal by the Credit it creates. But of theſe Advantages more in their proper place.</p>
+               <p>
+                  <label>Obj.</label> 
+                  <hi>This comes ſomewhat too late, Moſt of the Deficient Mony being already Return'd into the Hands of the King's Receivers.</hi>
+               </p>
+               <pb n="3" facs="tcp:179238:2"/>
+               <p>
+                  <label>Anſ.</label> If ſuch an Eſtabliſhment as is here propoſed be very advantageous to the Nation, (as I doubt not to evince) and the Opportunity be ſlipping from us, and like never to return again, it ought to be the more readily embraced. There's too little left in ſome places for all the Conveniences of ſuch a Deſign, but not too little to Lay the Foundation; eſpecially if we conſider what an Acceſſion may come to it by <hi>Prop.</hi> XI. Nor would there be wanting other Expedients to recover all the Convenien<g ref="char:EOLhyphen"/>ces, were the Deſign heartily encourag'd.</p>
+               <p>X. <q rend="margQuotes">'THAT no Market-Bank be diſſolved till all their Mony be Returned. And, that the Tax be Continued (or ſome equivalent Security) till every Market-Bank be paid.</q>
+               </p>
+               <p>This is no more than in other Words, that no Tally or Order be deliver'd up and cancel'd till the Debt be paid by the King: and, that a <hi>Tax</hi> be continued upon the People, till either the King is enabled to pay the Debt, or the Parliament (that is, the People themſelves by their Repreſentatives) deſire it ſhould be paid. For, if Experi<g ref="char:EOLhyphen"/>ence teach the Nation, that 'tis for the publick Good that this Conſtitution be not diſ<g ref="char:EOLhyphen"/>ſolved, the Parliament will not want methods how to perpetuate it. Among many there's one very obvious, <hi>viz.</hi> by abating the <hi>Tax</hi> gradually, till it will only pay the Intereſt, with ſuch a Surpluſage (at the Diſpoſe of Parliament from time to time) as ſhall be neceſſary to maintain the Credit, when it is well eſtabliſh'd. Or, if ſuch a con<g ref="char:EOLhyphen"/>tinued <hi>Tax</hi> ſhould be counted a Burthen, the Parliament may, when the preſent occaſion is ſerved, repay the Market-Banks, and diſſolve them at pleaſure.</p>
+               <p>XI. <q rend="margQuotes">'THAT any perſon may tranſmit any Tally for Mony Lent to the King, from the King's Exchequer to any Market-Bank.</q>
+               </p>
+               <p>By this means Country Gentlemen would be much eaſed, who might receive a Diſcharge from the <hi>Exchequer,</hi> with an Order of Admiſſion into the Market-Bank that lies moſt for their Convenience, eaſier than now they can have one Quarters Intereſt returned them; and for the future have their Mony always paid at Home. Neither will this create any Confuſion to the King's <hi>Exchequer,</hi> becauſe there are kept the Accompts of every Mar<g ref="char:EOLhyphen"/>ket-Bank, into which ſuch Transferments may with eaſe be Enter'd.</p>
+               <p>XII. <q rend="margQuotes">'THAT the Market-Bank-Bills be payable for all Taxes from any Pariſh an<g ref="char:EOLhyphen"/>nexed to that Bank; that is, that are obliged to return their Collections to the King's Receiver at that Bank-Town.</q>
+               </p>
+               <p>Q. <hi>What ſhall the King do with theſe Bills? Will they Pay his Army?</hi>
+               </p>
+               <p>
+                  <label>Anſ.</label> The King hath the Mony already Rais'd, and in his <hi>Exchequer,</hi> for his Uſe, for which he pays Intereſt; and theſe Bills ſink the Principal, and pay his Debts as effectually as the Mony doth his Army. Thus <hi>B,</hi> the Receiver of the King's Taxes at the Bank of <hi>Banbury,</hi> (whoſe principal Stock is 1000 <hi>l.</hi> Continued, that is Lent to the King) is to Receive of <hi>D,</hi> the Pariſh Collector of the King's Tax at <hi>Dedington,</hi> 100 <hi>l. D</hi> delivers him 40 <hi>l.</hi> in Mony, and 60 <hi>l.</hi> in the Bank-Bills of <hi>Banbury,</hi> which <hi>B</hi> accepts for 100 <hi>l.</hi> The like Returns <hi>B</hi> receives from all the Pariſh Collectors that are Obliged to return their Collections unto him. So much as <hi>B</hi> receives in the Bank-Bills of <hi>Banbury,</hi> ſo much of the Principal of that Bank is ſunk; that is, ſo much the King hath paid of his Debt to that Bank.</p>
+               <p>Q. <hi>Muſt theſe Bills be Returned to the Exchequer?</hi> —</p>
+               <p>
+                  <hi>A.</hi> No: On Pay-day <hi>B</hi> having Received 200 <hi>l.</hi> in <hi>Banbury</hi> Bank-Bills, offers them to the Governour, <hi>&amp;c.</hi> of that Bank, who (either give him Mony for them, or) accept them for 200 <hi>l.</hi> Principal due to them from the King, whereby their Bank is ſunk from 1000 <hi>l.</hi> to 800 <hi>l.</hi> Principal. <hi>B,</hi> beſides this 200 <hi>l.</hi> Principal, pays the Bank of <hi>Banbury</hi> likewiſe their Whole Intereſt. The Bank of <hi>Banbury</hi> give <hi>B</hi> an Acquittance in Full for Intereſt, — and for 200 <hi>l.</hi> Principal. This one Acquittance is paſſed in the Receivers Accounts for ſo much Mony thro' all the Offices (without diſturbing any ſetled Method) till it come to its proper place in the King's <hi>Exchequer,</hi> where being compared with the Account of that Bank immediately diſcovers how Accounts ſtand between the King and that Bank.</p>
+               <p>Q. <hi>What becomes of the Bills Delivered by</hi> B <hi>to that Bank?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They are Cancel'd in the preſence of the Governour, <hi>&amp;c.</hi> — who need not be Cautioned to ſee it done, becauſe otherwiſe they'l ruin themſelves. For the Prin<g ref="char:EOLhyphen"/>cipal, as appears by their Acquittance, being reduced from 1000 <hi>l.</hi> to 800 <hi>l.</hi> they can for the future receive no more Intereſt than for 800 <hi>l.</hi>
+               </p>
+               <pb n="4" facs="tcp:179238:3" rendition="simple:additions"/>
+               <p>Q. <hi>Then the Bank is Diſſolved when all the Bills are paid in Taxes?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; and then the King's Debt to that-Bank is wholly paid too. And this is the moſt advantageous Way of paying the King's Debts that can be contriv'd.</p>
+               <p>Q. <hi>How can this Conſtitution then be Continued down to Poſterity, to any Future Advan<g ref="char:EOLhyphen"/>tage? The very Taxes will, in time, Diſſolve it. It may ſerve indeed as an Expedient for our Preſent Difficulties.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> If it ſerve the preſent Occaſion, that's enough to recommend it now to Conſidera<g ref="char:EOLhyphen"/>ration. But the Conſtitution of theſe Market-Banks may be ſo contriv'd, as to ren<g ref="char:EOLhyphen"/>der them either Durable or Diſſolvable, at the Pleaſure of Parliament.</p>
+               <p>Q. <hi>May not great part of the Principal be thus Gradually paid during the War, and the Remainder Continued till after the War?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes, without any great Inconvenience to any perſon, eſpecially if theſe Bills ob<g ref="char:EOLhyphen"/>tain the Expected Credit, and become more Deſirable than Mony, or a Mortgage, as probably they may, when Men underſtand the Security of them, and their own In<g ref="char:EOLhyphen"/>tereſt. But, 'tis to be ſuppoſed the Parliament will make Proviſion for paying the Principal at a certain time or times, if demanded; and the Conſtitution of theſe Market-Banks may be ſo contrived, that the Right of every perſon may be ſecured, and their Occaſions ſerved, by receiving their Principal; and yet the Market-Banks may continue great part of their Principal, for the King's Intereſt, as long as the Parliament ſhall think convenient, whereby the <hi>Burden</hi> may be thrown off beyond the War; as may appear by conſidering ſome of the particular Rules of the Market-banks, compared with the following Advantages.</p>
+            </div>
+            <div type="rules">
+               <head>
+                  <hi>II.</hi> R<g ref="char:V">Ʋ</g>LES for the Regulation of theſe <hi>Banks.</hi>
+               </head>
+               <p n="1">I. <q rend="margQuotes">'THAT every perſon that deſires his Principal as it becomes due, deliver in his <hi>Bill</hi> or <hi>Bills</hi> — Weeks before <hi>Pay-day,</hi> and take a Ticket to come and receive his Mony on or after <hi>Pay-day,</hi> allowing for Charges to the <hi>Bank.</hi>
+                  </q> — (a ſmall Fee to be named.)</p>
+               <p n="2">II. <q rend="margQuotes">'THAT every <hi>Market-Bank</hi> keep a Regiſter of Candidates, or perſons that deſire <hi>Bank-Bills</hi> for their Mony. And, that paying their Mony — Weeks before Pay-day, or on Pay-day, they receive immediately any Bill or Bills returned to the <hi>Bank.</hi>
+                  </q>
+               </p>
+               <p>The <hi>Market-Bank</hi> only is concern'd with the <hi>King,</hi> whoſe <hi>Tally</hi> it receives: <hi>Particular Perſons</hi> are immediately concerned only with the <hi>Market-Bank,</hi> whoſe <hi>Bills</hi> they receive. And by the two foregoing Rules proviſion is made for ſecuring the Right of every parti<g ref="char:EOLhyphen"/>cular perſon, in drawing out his Principal, without a neceſſity of ſinking the Principal of the <hi>Bank.</hi> And the Intereſt of every place that is the Seat of ſuch a <hi>Bank</hi> will engage the Governour and Directors, and other Inhabitants, to improve all the Advantages that can be thought of, to maintain the Credit of their <hi>Bank,</hi> by continuing their Principal, or as much of it as they can, for the King's Intereſt, as long as they can.</p>
+               <p n="3">III. <q rend="margQuotes">'THAT the <hi>Market-Bank-Bills</hi> be only of two ſorts, the one of 8 <hi>l.</hi> the other of 1 <hi>l.</hi> (the former may be called Shares, the latter parts) and that theſe two ſort of <hi>Bills</hi> be kept diſtinct in two <hi>Books,</hi> and that every perſon be allowed to enter his Mony in either of them; that is, to take either the larger or the leſſer Bills.</q>
+               </p>
+               <p n="4">IV. <q rend="margQuotes">'THAT the King's Intereſt to the Market-bank be reduced to ſo much by the Quarter for a Share, or 8 <hi>l.</hi> Bill, as will make an even Number; the Fractions being al<g ref="char:EOLhyphen"/>lowed to the <hi>Bank</hi> for Charges (or —)</q>
+               </p>
+               <p>By theſe two Rules the Commerce and Computation of Country People is conſulted, and the Objection obviated. How will you find Accomptants qualified for <hi>Book-keeping, &amp;c.</hi> for hereby the Accompts in theſe Banks may be made ſo eaſie, that any Town will afford per<g ref="char:EOLhyphen"/>ſons enough fit to undertake that buſineſs at a cheap rate, proviſion being made here<g ref="char:EOLhyphen"/>by (compared with <hi>Prop.</hi> III, &amp; V.) that no Mony but full pounds ſhall be admitted into theſe Market-banks; and the Fractions of the Intereſt being thrown off, the Accompts may be ſo ſetled, as that neither the Accomptant nor the Country-man can err in their Com<g ref="char:EOLhyphen"/>putations; <hi>ex. gr.</hi> Suppoſe the Intereſt allowed by the King to theſe Market-banks be 6 <hi>l. per Cent.</hi> by the Year, the Intereſt to be allowed by the Market-bank to particular perſons may be 2 <hi>s.</hi> &amp; 4 <hi>d.</hi> for every Share (or Eight pound) by the Quarter. Eight is an even Number that may be doubl'd <hi>in infinitum,</hi> and divided equally, to an unite without any odd
+<pb n="5" facs="tcp:179238:3" rendition="simple:additions"/>Number or Fraction. Hence it follows, upon the former Suppoſition, that the Intereſt of Four parts or pounds will be 1 <hi>s.</hi> &amp; 2 <hi>d.</hi> — of Two pounds will be 7 <hi>d.</hi>—of One pound will be 3 <hi>d.</hi> half-penny by the Quarter; and by doubling the Shares, they'l find this to be after the rate of 5 <hi>l.</hi> 16 <hi>s.</hi> 8 <hi>d.</hi> by the Year. The odd 3 <hi>s.</hi> 4 <hi>d.</hi> made by the Fractions may be allowed to the <hi>Bank</hi> for Charges, or to every perſon that ſhall have the Quarterly Inte<g ref="char:EOLhyphen"/>reſt of an entire 100 <hi>l.</hi> due at one certain Quarter in the Year.</p>
+               <p>The Hint of facilitating Accompts thus, I took from that accurate Mathematician Biſhop <hi>Wilkins;</hi> and being applied here, it removes the Suppoſed Difficulties, without inferring any other, the <hi>Tallies</hi> and <hi>Acquittances</hi> keeping the received way of computation.</p>
+               <p>Other particular Rules for the Regulation of theſe Banks may be given hereafter, if oc<g ref="char:EOLhyphen"/>caſion ſhall require.</p>
+            </div>
+            <div type="advantages">
+               <head>
+                  <hi>III.</hi> Some Advantages of theſe Market-Banks.</head>
+               <p n="1">I. Theſe Market-Banks will create Credit, more ſerviceable to the Nation for many purpoſes than Money. And never was there an Exigency in our Nation that could render ſuch a deſign more deſireable (not to ſay neceſſary) in order to prevent the ſtop of Com<g ref="char:EOLhyphen"/>merce, and to enable the Nation to carry on Trade both at home and abroad, to pay Taxes, and bear with eaſe the Charges of a very expenſive but neceſſary War.</p>
+               <p>'Tis certain, that Credit doubly ſerves the Nation; and conſequently, that what Money theſe Banks continue at the Kings Intereſt, doth ſerve both King and People.</p>
+               <p>
+                  <label>Obj.</label> 
+                  <hi>Of Banks and Paper Credit we have enough already</hi> —</p>
+               <p>
+                  <label>Anſ.</label> Theſe Market-banks are very different from any of the Banks on foot: For,</p>
+               <p n="1">1. The Credit of theſe Banks can never exceed their Principal: Whereas in other Banks a Fund of <hi>Ten Thouſand Pound</hi> may create a Credit of <hi>Fifty Thouſand Pound,</hi> to the manifeſt profit indeed of the firſt Adventurers, but not without hazard to their Creditors in caſe of failure. Here 'tis quite otherwiſe, 100 <hi>l.</hi> Principal can create but 100 <hi>l.</hi> Credit.</p>
+               <p n="2">2. This is no more Paper Credit, than the <hi>Tallies</hi> of the King's Exchequer; the ſeve<g ref="char:EOLhyphen"/>ral Bills of every Market-bank being indeed but one larger <hi>Tally</hi> divided into ſeveral leſſer ſhares or parts: Nor can a Reaſon be given, why any perſon ſhould oppoſe the eſtabliſh<g ref="char:EOLhyphen"/>ing of ſuch a Credit, or ſtrive to leſſen its Reputation, unleſs ſuch as do not rightly ap<g ref="char:EOLhyphen"/>prehend the Deſign, or are unwilling to part with the gain they make to themſelves of the publick neceſſities and expences, or envy both the <hi>King</hi> and <hi>People</hi> the Advantages that may be made of it, and are afraid to ſee both their Intereſts ſo cloſely united.</p>
+               <p>
+                  <label>Obj.</label> 
+                  <hi>How can there at firſt be given a due Reputation to this Credit? eſpecially in the Coun<g ref="char:EOLhyphen"/>try, where theſe Market-Banks will be of greateſt uſe, and where People will not readily be ſatiſ<g ref="char:EOLhyphen"/>fied with Paper inſtead of Money.</hi>
+               </p>
+               <p>
+                  <label>Anſ.</label> The Credit is ſuppoſed to be placed on a very ſure bottom, an Act of Parli<g ref="char:EOLhyphen"/>ament <hi>(Prop. IX, X.)</hi> The Tax is the Fund of Credit, the King's Receivers of the Tax ſeated in the <hi>Bank-Towns</hi> pay the Intereſt and Principal, as they become due to the <hi>Bank.</hi>
+               </p>
+               <p>And altho' Country-people ſhould not underſtand their own Intereſt at firſt, yet as a Refuge from greater inconveniences, they muſt needs be pleaſed with it, till their de<g ref="char:EOLhyphen"/>fective Money can be return'd to them in Current Coyn. Becauſe, while their Money is out of their hands, they'll find theſe Bills with a <hi>Transfer-Office</hi> for ſecurity, will be more ſerviceable to them for moſt purpoſes, than if they had their Money in poſſeſſion: For,</p>
+               <p n="2">2. Their Money in the Bank will be exempt from all <hi>Taxes,</hi> — 'tis lent the King.</p>
+               <p n="3">3. Their <hi>Bank-Bills</hi> will be payable in all <hi>Taxes (Prop. XII.)</hi> And for that purpoſe will be valued by all, as well by them that do not rightly underſtand the Uſe of Pa<g ref="char:EOLhyphen"/>per Credit placed upon a ſure bottom, as by them that do: For every one will find it his Intereſt to continue ſo much of his Money in the <hi>Market-Banks</hi> (that is, con<g ref="char:EOLhyphen"/>ſequently in the King's Exchequer) as will pay his <hi>Taxes,</hi> ſin the may make ſome uſe of them in the mean time, and they are ready payment on demand. And by this means moſt perſons will contribute ſomething towards the Eſtabliſhing the Credit of theſe <hi>Bills.</hi>
+               </p>
+               <p n="4">4. Their <hi>Bank Bills</hi> will ſecure them from being ſued for any Debt not exceeding the Value of their <hi>Bills,</hi> till their Money is returnable <hi>(Prep. VII.)</hi> which will ſufficient<g ref="char:EOLhyphen"/>ly recommend them to not a few.</p>
+               <pb n="6" facs="tcp:179238:4"/>
+               <p n="5">5. By this means they'll eaſily without any further Obligation become payable; for who will refuſe a <hi>Bank-Bill,</hi> that may, if he think fit, be converted into Money at a cer<g ref="char:EOLhyphen"/>tain time, and will in the interim pay <hi>Taxes</hi> and <hi>Debts.</hi>
+               </p>
+               <p n="6">6. Hereby the convenience and ſecurity of theſe <hi>Bills</hi> will make them deſirable, which while they have in their hands, will bring in Intereſt duely payd at home, and at the ſame time anſwer the Ends of ready Money in Trading and Payments of Debts and Taxes.</p>
+               <p n="7">7. Theſe <hi>Bank-Bills</hi> open a door to let in many little Adventurers, every one that can but raiſe 20 <hi>s.</hi> having here an Advantage of improving it, which will draw in no ſmall Numbers, and make a conſiderable addition to the Credit of the <hi>Bank.</hi>
+               </p>
+               <p n="8">8. It being the Intereſt of every <hi>Bank-Town</hi> to keep up the Credit of their <hi>Bank,</hi> as drawing <hi>Trade</hi> to them, <hi>&amp;c.</hi> they will be induſtrious to convince their Neighbours of the benefit and ſecurity of their <hi>Bank-Bills,</hi> or rather than fail, will among themſelves find out a Method of taking up ſuch <hi>Bills</hi> as ſhall be returned to the <hi>Bank,</hi> at leaſt ſo many of them as ſhall be neceſſary to maintain their <hi>Bank</hi> in Credit, <hi>(Rule I. &amp; II.)</hi>
+               </p>
+               <p n="9">9. In every Pariſh the Collectors of the King's <hi>Taxes</hi> may give Mony for their Neighbors ſmall Bank-Bills, and get by the bargain. (<hi>Prop.</hi> XII, and IX.)</p>
+               <p>Or, Suppoſe all theſe Advantages not ſufficient to Eſtabliſh Credit, yet there are other means that may be uſed ſo efficacious, that 'twill be morally impoſſible the Cre<g ref="char:EOLhyphen"/>dit ſhould fail; and this is no more than the Author is able and ready to make good, as juſt occaſion ſhall require.</p>
+               <p n="2">II. Theſe <hi>Banks</hi> will encourage good Husbandry, and cauſe the <hi>Nation</hi> to thrive thereby. The great incentive of good Husbandry, is the hopes of getting a Sum together, that may be placed out at Intereſt. When Money comes near ſuch a Sum, then generally People grow more thrifty and ſparing, that they may compleat it. The deſpair of ever reaching ſuch a Sum, hath cauſed many that, with ſuch a Motive, might have been able to pay <hi>Taxes</hi> and Pariſh-rates, to ſink and need relief themſelves. The Servant by making theſe Banks (inſtead of his Maſter) his Caſh keeper will (be<g ref="char:EOLhyphen"/>ſide keeping his little Stock ſecure and unbroken) have it upon the increaſe, which may be a means of putting many induſtrious Perſons into a capacity of beginning the World in good circumſtances, and becoming afterward a ſervice inſtead of burden to their Country.</p>
+               <p>The Shop-keeper will prefer a Bank-Bill before Money; that is to ſay, Money al<g ref="char:EOLhyphen"/>ready placed at Intereſt, and without any farther trouble every day improving, before Money lying dead by him. Therefore,</p>
+               <p n="3">III. Theſe Banks will prevent the hoarding up of Money, ſo pernicious to the Na<g ref="char:EOLhyphen"/>tion: For when <hi>Bank-bills</hi> ſhall have the Uſe and Value of Money, they will be prefer<g ref="char:EOLhyphen"/>red before it; every ſingle Pound in a <hi>Bill</hi> immediately being upon Intereſt: and there will be no longer need of hoarding up Money till they can make round Sums (all the while in danger of being broken) before they can put it to any Improvement. By which means a greater quantity of our running Coyn may be ſpared for Foreign Traf<g ref="char:EOLhyphen"/>fick or Exigences of State.</p>
+               <p n="4">IV. Theſe <hi>Banks</hi> will ſave many Expences both to King and People; to name but one at preſent: The King will forthwith this year ſave (at leaſt a very great part of) the Charges of Collecting the <hi>Taxes,</hi> becauſe ſuch a proportion will be before-hand in his <hi>Exchequer,</hi> as the People will be willing to pay with their <hi>Bank-bills (Prop. XII.)</hi> And even the Enemies of the Government will tell you what that's like to be, who will not be leſs forward to pay their <hi>Taxes</hi> this way, than the Friends of it.</p>
+               <p n="5">V. By theſe <hi>Market-Banks,</hi> when their Credit is eſtabliſhed, <hi>Taxes</hi> may be made ve<g ref="char:EOLhyphen"/>ry eaſie: For,</p>
+               <p n="1">1. A great Sum of Money may be raiſed and returned forthwith into the King's Ex<g ref="char:EOLhyphen"/>chequer by a ſmall <hi>Tax.</hi> Suppoſe a <hi>Tax</hi> of <hi>Eight Millions</hi> of Money be neceſſary, if the Parliament allow to every <hi>Market-bank</hi> to lend its proportion, the Se<g ref="char:EOLhyphen"/>curity of <hi>Three Millions</hi> (according to <hi>Prop. X.</hi> or perhaps leſs) will be encourage<g ref="char:EOLhyphen"/>ment ſufficient to raiſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Money, and tranſmit it forthwith to the <hi>Exchequer;</hi> becauſe the <hi>Three Million Tax</hi> will diſcharge both Principal and Intereſt of <hi>Eight Millions</hi> within three years; and yet by Rule I. &amp; II. particular Perſons, as their occaſions require, may draw out their Principal.</p>
+               <p>
+                  <label>Obj.</label> 
+                  <hi>This is but poſtponing a Debt, the Principal muſt be paid at laſt.</hi>
+               </p>
+               <p>
+                  <label>Anſ.</label> Suppoſe ſo, yet time will make that an eaſie Burden, which falling all at once,
+<pb n="7" facs="tcp:179238:4"/>would be unſupportable, eſpecially to the poorer ſort; and the Method here propoſed, not only avoids all the inconveniences of ſuch poſtponing Debts, to the Nation in gene<g ref="char:EOLhyphen"/>ral, and every particular Perſon, but makes very great Advantages of it: For,</p>
+               <p n="2">2. Upon the Security of the Three Million Tax, Eight Millions of Mony is raiſed to the King; and at the ſame time Eight Millions of Credit is created to the Subject, in a way that will Anſwer all the Ends of Mony: So that the King will have the Mony, and the People not feel the want of it; nay, Covet to purchaſe ſuch a Credit with their Mony.</p>
+               <p n="3">3 The Eight Millions Lent refunds the Nation the whole Intereſt of their Principal, which makes the Three Million Tax ſo much the eaſier.</p>
+               <p>
+                  <label>Obj.</label> 
+                  <hi>The People pay their Tax, and the Tax pays the People their Intereſt: This is but giving and taking their Own again, and what's the Advantage?</hi>
+               </p>
+               <p>
+                  <label>Anſ.</label> Very Great. The Tax is ſuppoſed neceſſary, and by this Method is made much more eaſie at <hi>Firſt,</hi> and becomes gradually eaſier and eaſier; for, if Eight Millions be ne<g ref="char:EOLhyphen"/>ceſſary, ſo much muſt be raiſed, whether we can make Advantage of it or no. But by this method Eight Millions being advanced upon the Security of a Tax of Three Millions, creates a Credit proportionable to the Principal, and returns the Intereſt of the Principal; which Intereſt of the Eight Millions Principal being ſubſtracted from the Three Million Tax, muſt make the Tax of Three Millions ſo much leſs. If <hi>A</hi> pays <hi>B</hi> 20 <hi>s.</hi> and <hi>B</hi> returns 5 <hi>s.</hi> back again, <hi>A</hi> pays but 15 <hi>s.</hi>
+               </p>
+               <p n="4">4. This Intereſt of Eight Millions will be diſperſed through the Nation, where 'twill moſt advance the Publick Good, <hi>viz.</hi> among the Frugal and Induſtrious: For, when the Nation is by the propoſed Conſtitution put into a way of thriving, it will by good Hus<g ref="char:EOLhyphen"/>bandry encreaſe its Real Stock, and will find, that Lending to the King is a ready way of Improving that Stock. Therefore, when the Parliament open theſe Banks, (I mean, al<g ref="char:EOLhyphen"/>low them to Lend to ſuch a proportion) every one that can, will be deſirous to have ſomething there. And he'll be an ill Husband that will not ſecure there ſo much at leaſt as will pay the Tax, as it becomes due, (<hi>Prop.</hi> XII.) with his Bank-Bills. By this me<g ref="char:EOLhyphen"/>thod a wary Shopkeeper, <hi>&amp;c.</hi> by taking Bills inſtead of Mony, may gain wherewith either to Pay his Tax, or leſſen it.</p>
+               <p>
+                  <label>Obj.</label> 
+                  <hi>So much of the Tax as One throws off from himſelf, muſt fall upon Another.</hi>
+               </p>
+               <p>
+                  <label>Anſ.</label> True; but by this method the Tax is much eas'd, and the Burden will fall where it will do leaſt Hurt. Thoſe whoſe Neceſſities will not allow them to Lend to the King, when the Banks are open, ſo much as will pay their Tax, would find it as hard to pay the Tax at once; and <hi>Their</hi> Convenience is very much conſulted, by dividing the Tax into ma<g ref="char:EOLhyphen"/>ny leſſer Portions. As for the Unthinking and Unthrifty, that take no Care for the Future, they'l be never the poorer, nor in worſe Circumſtances for the Tax, thus divided: And upon them the Burden will fall.</p>
+               <p n="5">5. The Credit of the Banks being maintained, the remaining part of the Tax of three Millions, after the Intereſt of the Principal is paid, will be at the diſpoſal of Parliament (for the People will never diſtruſt the Fund, while they ſee the Mony raiſed among them<g ref="char:EOLhyphen"/>ſelves, pay their Intereſt at home, (<hi>Prop.</hi> IX, &amp; XII. and <hi>Rule</hi> I, &amp; II.) And by this means. if Occaſions require, that part of the three Million <hi>Tax,</hi> with a little Additional Security, opening the Banks again, may be advanced to a great Sum for future Occaſions.</p>
+               <p>
+                  <label>Obj.</label> 
+                  <hi>The</hi> People <hi>cannot ſpare ſo much Mony.</hi>
+               </p>
+               <p>
+                  <label>Anſ.</label> If ſo much <hi>muſt</hi> be found, — there's no eaſier way of finding it than to open a Door to every one of the King's Subjects throughout the Land, that can ſpare but 20 <hi>s.</hi> to Lend it to the King; and that in ſo eaſie and ſatisfactory a method, when particular per<g ref="char:EOLhyphen"/>ſons do as it were Lend to what Market-Bank they pleaſe, and the Market-Bank gathers up theſe ſmaller Sums, and returns them forthwith to the King's <hi>Exchequer</hi> in one great one, and receives but one <hi>Tally</hi> for the whole.</p>
+               <p>I am ſenſible ſome Objections may be raiſed againſt what hath been ſaid under this Head, and perhaps ſuch as may at firſt appearance ſeem plauſible, and pretend to demonſtration. But 'tis a fallacious way of arguing, to apply Mathematical Axioms (the Subject whereof is fixed, and always the ſame) to Moral Affairs, or Matters of Policy, which are always in a ſtate of change and variation, according to the Circumſtances that attend them. This is plain, and capable of demonſtration, (without drawing Schemes) that by this method of raiſing a Tax, 100 <hi>l.</hi> doth the ſervice of 200 <hi>l.</hi> (not to ſay more) to the Nation; that is, is 200 <hi>l.</hi> in uſe, tho' not in weight. And let them argue what they will, the People will find themſelves eaſed, if eight Millions be raiſed upon a Fund or Tax of three Millions, in ſuch
+<pb n="8" facs="tcp:179238:5" rendition="simple:additions"/>a manner, that the King hath the eight millions in <hi>ſpecie,</hi> and the People the Service of eight Millions as truly as if they had it in <hi>ſpecie,</hi> and that the three Million Tax returns them back the Intereſt of the eight Millions.</p>
+               <p n="6">VI. Theſe Market-Banks may in time lead us to a method, better than any yet found out, to employ and provide for the Poor. 1. By ſetling a Poor's Stock in every Market-Bank, under the direction of the Governors thereof. And, 2. By encouraging every Pw<g ref="char:EOLhyphen"/>riſh to enter a Poor's Stock into ſome Market-Bank, to lye there upon encreaſe, for the uſe of the Pariſh. And 'twere eaſie to ſhew, that this is both practicable and highly improva<g ref="char:EOLhyphen"/>ble for the publick Welfare.</p>
+               <p n="7">VII. There may be ſetled a Communication between Market-Banks, by a diſcharge from one, with order of Admiſſion into the Bank deſired, for the ſecurity and eaſe of tranſmitting Mony, without Confuſion of Accompts.</p>
+               <p>
+                  <label>Obj.</label> 
+                  <hi>The Conſultation about the propoſed</hi> Market-Banks <hi>now would retard Affairs too much by creating new Thoughts and freſh Debates, which the multiplicity of other affairs will not admit of.</hi>
+               </p>
+               <p>
+                  <label>Anſ.</label> 1. The Bottom whereon theſe Market-Banks might be with Eaſe erected <hi>Now, <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> no more than this: That in every Corporation and Market-town where Commiſſioners, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are appointed to receive the defective Mony to be chang'd, there be kept a Regiſter of <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Owners, and Sums of the Mony there deliver'd; and that no perſon be Sued, that ſhall <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> (in due Form to be appointed) to transfer ſo much of his Mony on the Regiſter as <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pay his Debt, until his Mony can be returned unto him. This would not only lay a Founda<g ref="char:EOLhyphen"/>tion whereon theſe Market-Banks might be placed, but alſo prevent many Inconvenience.</p>
+               <p n="2">2. It may not take up ſo much time as is imagined, if it be enter'd upon with a Refla<g ref="char:EOLhyphen"/>tion, that nothing but what is neceſſary, or ſo very reaſonable as not to create Diſpute, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> preſent taken into conſideration: Farther Methods and Improvements may be deferred <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> time to come.</p>
+               <p n="3">3. Theſe Market-Banks will not diſturb any ſetled Method.</p>
+               <p n="4">4. The Conſultation about them <hi>Now,</hi> by leading the way to a more ready clearing other Difficulties, may prevent more Debates than it creates, and ſo ſave time.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>MY Deſign in drawing up theſe Lines, was, at firſt, intended to anſwer m<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Ends than One; and if it come too late for Some of them, it may <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for All. Reject not therefore the Whole for the Unpromiſing Beginning. <hi>R<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the laſt Sheet firſt,</hi> the <hi>Advantages</hi> of the propoſed <hi>Market-banks</hi>
+               <note n="*" place="margin">Pag. 5</note>, then Conſ<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the <hi>Propoſals</hi> themſelves, <hi>&amp;c.</hi> eſpecially the <hi>Four Laſt,</hi> and laying all toget<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> judge whether ſuch Advantages would not naturally follow from ſuch an E<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bliſhment. I could offer much more than what is here mentioned, and am <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ling to do it, if this Eſſay open me a paſſage, and they for whoſe Intereſt it is <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as ready to Hear as I am to Impart it. No more at preſent, only to beg this <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>vour of the Reader, that as the forming this Deſign hath coſt me many a Thou<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſo he would beſtow ſome upon it before he Condemn he knows not what.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>T. Milbourn,</hi> for the Author, and are to be had at Mr. <hi>Carter</hi>'s in Old <hi>Palace-yard</hi> near the <hi>Parliament-houſe;</hi> and at the <hi>Plow</hi> on the <hi>Royal Exchange</hi> up Stairs on the North ſide, 169..</p>
+         </div>
+      </back>
+   </text>
+</TEI>
